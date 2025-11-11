@@ -15,7 +15,7 @@ const bestSellerData: BestSellerItem[] = [
     id: "bs-1",
     name: "Ayam Cabe Hijau",
     price: 25000,
-    image: "/ayamSambalHijau.jpg",
+    image: "/ayamSambalHijau.jpeg",
     rating: 4.9,
   },
   {
@@ -29,14 +29,14 @@ const bestSellerData: BestSellerItem[] = [
     id: "bs-3",
     name: "Snack dengan Susu",
     price: 25000,
-    image: "/snackSusu.jpg",
+    image: "/snackSusu.jpeg",
     rating: 4.9,
   },
   {
     id: "bs-6",
     name: "Snack dengan Susu Kacang Hijau",
     price: 25000,
-    image: "/snackKacangHijau.jpg",
+    image: "/snackKacangHijau.jpeg",
     rating: 4.9,
   },
   {
@@ -50,7 +50,7 @@ const bestSellerData: BestSellerItem[] = [
     id: "bs-5",
     name: "Nasi Lele Spesial",
     price: 25000,
-    image: "/nasiLeleSpesial.jpg",
+    image: "/nasiLeleSpesial.jpeg",
     rating: 4.8,
   },
 ]

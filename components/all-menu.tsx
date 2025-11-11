@@ -23,7 +23,7 @@ const allMenuData = [
     name: "Ayam Cabe Hijau",
     desc: "Ayam lezat dengan cabe hijau pilihan",
     price: 25000,
-    image: "/ayamSambalHijau.jpg",
+    image: "/ayamSambalHijau.jpeg",
   },
   {
     id: "all-4",
@@ -37,14 +37,14 @@ const allMenuData = [
     name: "Nasi Lele Spesial",
     desc: "Nasi dengan lele spesial dan crispy",
     price: 25000,
-    image: "/nasiLeleSpesial.jpg",
+    image: "/nasiLeleSpesial.jpeg",
   },
   {
     id: "all-6",
     name: "Ayam Rendang",
     desc: "Ayam dengan bumbu rendang khas indonesia",
     price: 25000,
-    image: "/ayamRendang.jpg",
+    image: "/ayamRendang.jpeg",
   },
   {
     id: "all-7",
@@ -86,7 +86,7 @@ const allMenuData = [
     name: "Snack Susu Kacang Hijau",
     desc: "Snack dengan tambahan susu kacang hijau yang menggugah selera",
     price: 25000,
-    image: "/snackKacangHijau.jpg",
+    image: "/snackKacangHijau.jpeg",
   },
   {
     id: "all-13",
@@ -121,7 +121,7 @@ const allMenuData = [
     name: "Snack Susu",
     desc: "Snack dengan susu segar yang sangat nikmat",
     price: 25000,
-    image: "/SnackSusu.jpg",
+    image: "/SnackSusu.jpeg",
   },
   {
     id: "all-19",
@@ -135,7 +135,7 @@ const allMenuData = [
     name: "Snack Regular",
     desc: "Snack dengan rasa yang nikmat cocok untuk acara",
     price: 25000,
-    image: "/snackRegular.jpg",
+    image: "/snackRegular.jpeg",
   },
   {
     id: "all-20",

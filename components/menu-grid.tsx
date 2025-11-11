@@ -24,14 +24,14 @@ const menuData = {
       name: "Ayam Cabe Hijau",
       desc: "Ayam lezar dengan cabe hijau pilihan",
       price: 25000,
-      image: "/ayamSambalHijau.jpg",
+      image: "/ayamSambalHijau.jpeg",
     },
     {
       id: "w1-4",
       name: "Ayam Suwir",
       desc: "Nasi dengan ayam suwir yang lembut, tepat dimakan hangat",
       price: 25000,
-      image: "/ayamSuwir.jpeg",
+      image: "/ayamSuwir.jpg",
     },
   ],
   2: [
@@ -40,7 +40,7 @@ const menuData = {
       name: "Nasi Lele Spesial",
       desc: "Nasi dengan lele spesial dan crispy",
       price: 25000,
-      image: "/nasiLeleSpesial.jpg",
+      image: "/nasiLeleSpesial.jpeg",
     },
     {
       id: "w2-2",
@@ -91,7 +91,7 @@ const menuData = {
       name: "Snack Susu Kacang Hijau",
       desc: "Snack dengan tambahan susu kacang hijau yang menggugah selera",
       price: 25000,
-      image: "/snackKacangHijau.jpg",
+      image: "/snackKacangHijau.jpeg",
     },
   ],
   4: [
@@ -121,7 +121,7 @@ const menuData = {
       name: "Snack Susu",
       desc: "Snack dengan susu segar yang sangat nikmat",
       price: 25000,
-      image: "/SnackSusu.jpg",
+      image: "/SnackSusu.jpeg",
     },
   ],
 }
