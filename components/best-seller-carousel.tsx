@@ -185,7 +185,7 @@ export default function BestSellerCarousel() {
                       </div>
 
                       <a
-                        href={`https://wa.me/628983064613?text=Halo%20Dapur%20Umi%20Kiyana!%20Saya%20ingin%20memesan%20${item.name}%20-%20Rp${item.price.toLocaleString("id-ID")}`}
+                        href={`https://wa.me/628983064613?text=Halo%20Dapur%20Umi%20Kyana!%20Saya%20ingin%20memesan%20${item.name}%20-%20Rp${item.price.toLocaleString("id-ID")}`}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-gradient-to-r from-primary to-accent text-white p-3 rounded-full hover:shadow-lg hover:shadow-primary/40 transition-all duration-300 hover:scale-110"

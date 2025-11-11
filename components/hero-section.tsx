@@ -69,7 +69,7 @@ export default function HeroSection() {
           <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-primary/20">
             <img
               src="/heroMenu2.jpeg"
-              alt="Hidangan Spesial Dapur Umi Kiyana"
+              alt="Hidangan Spesial Dapur Umi Kyana"
               className="w-full h-auto object-cover transition-transform duration-700 hover:scale-105"
             />
 

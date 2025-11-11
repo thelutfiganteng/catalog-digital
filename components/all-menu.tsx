@@ -163,7 +163,7 @@ export default function AllMenu() {
     const items = allMenuData.filter((item) => selectedItems.has(item.id))
     const total = items.reduce((sum, item) => sum + item.price, 0)
 
-    let message = `Halo Dapur Umi Kiyana! 👋\n\n`
+    let message = `Halo Dapur Umi Kyana! 👋\n\n`
     message += `Saya ingin memesan menu berikut:\n\n`
 
     items.forEach((item, index) => {
@@ -186,7 +186,7 @@ export default function AllMenu() {
           Seluruh Menu Kami
         </h2>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-          Jelajahi semua pilihan hidangan spesial dari Dapur Umi Kiyana. Setiap menu dibuat dengan cinta dan bahan-bahan
+          Jelajahi semua pilihan hidangan spesial dari Dapur Umi Kyana. Setiap menu dibuat dengan cinta dan bahan-bahan
           pilihan terbaik.
         </p>
       </div>

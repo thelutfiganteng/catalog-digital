@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Dapur Umi Kiyana | Katering Lezat",
+  title: "Dapur Umi Kyana | Katering Lezat",
   description: "Katering berkualitas dengan menu mingguan variatif. Pesan sekarang melalui WhatsApp!",
   generator: "v0.app",
   // icons: {

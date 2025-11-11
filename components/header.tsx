@@ -16,7 +16,7 @@ export default function Header() {
               <span className="text-white font-bold text-lg"></span>
             </div>
             <div>
-              <h1 className="font-bold text-lg text-foreground">Dapur Umi Kiyana</h1>
+              <h1 className="font-bold text-lg text-foreground">Dapur Umi Kyana</h1>
               <p className="text-xs text-muted-foreground">Katering Istimewa</p>
             </div>
           </a>

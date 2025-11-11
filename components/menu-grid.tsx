@@ -149,7 +149,7 @@ export default function MenuGrid({ week }: MenuGridProps) {
     const items = currentMenu.filter((item) => selectedItems.has(item.id))
     const total = items.reduce((sum, item) => sum + item.price, 0)
 
-    let message = `Halo Dapur Umi Kiyana! 👋\n\n`
+    let message = `Halo Dapur Umi Kyana! 👋\n\n`
     message += `Saya ingin memesan menu dari *Minggu ${week}*:\n\n`
 
     items.forEach((item, index) => {

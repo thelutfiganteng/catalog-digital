@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 py-16">
         {/* CTA Section */}
         <div className="bg-gradient-to-r from-primary/10 to-accent/10 rounded-2xl p-8 text-center mb-8">
-          <h3 className="text-2xl font-bold text-foreground mb-3">Siap Mesan?</h3>
+          <h3 className="text-2xl font-bold text-foreground mb-3">Siap Pesan?</h3>
           <p className="text-muted-foreground mb-6">Hubungi kami sekarang untuk pemesanan katering Anda</p>
           <a
             href="https://wa.me/628983064613"
@@ -27,7 +27,7 @@ export default function Footer() {
               <div className="w-10 h-10 bg-gradient-to-br from-primary to-accent rounded-lg flex items-center justify-center">
                 {/* <span className="text-white font-bold text-lg"></span> */}
               </div>
-              <h3 className="font-bold text-lg text-foreground">Dapur Umi Kiyana</h3>
+              <h3 className="font-bold text-lg text-foreground">Dapur Umi Kyana</h3>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Kami menyediakan katering berkualitas dengan menu mingguan yang variatif. Setiap hidangan disiapkan dengan
@@ -83,7 +83,7 @@ export default function Footer() {
 
         {/* Bottom */}
         <div className="border-t border-border pt-8 text-center">
-          <p className="text-sm text-muted-foreground">© 2025 Dapur Umi Kiyana. Dibuat dengan ❤️ untuk Anda.</p>
+          <p className="text-sm text-muted-foreground">© 2025 Dapur Umi Kyana. Dibuat dengan ❤️ untuk Anda.</p>
         </div>
       </div>
     </footer>

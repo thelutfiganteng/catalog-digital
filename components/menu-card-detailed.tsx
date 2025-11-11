@@ -23,7 +23,7 @@ export default function MenuCardDetailed({ item, showBuyButton = true }: MenuCar
 
   const handleWhatsAppClick = (e: React.MouseEvent) => {
     e.preventDefault()
-    const message = `Halo Dapur Umi Kiyana! 👋\n\nSaya ingin memesan:\n${item.name} - Rp${item.price.toLocaleString("id-ID")}\n\nMohon informasi lebih lanjut. Terima kasih!`
+    const message = `Halo Dapur Umi Kyana! 👋\n\nSaya ingin memesan:\n${item.name} - Rp${item.price.toLocaleString("id-ID")}\n\nMohon informasi lebih lanjut. Terima kasih!`
     const encodedMessage = encodeURIComponent(message)
     window.open(`https://wa.me/628983064613?text=${encodedMessage}`, "_blank")
   }
