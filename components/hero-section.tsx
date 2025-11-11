@@ -68,7 +68,7 @@ export default function HeroSection() {
         <div className="relative animate-slide-up" style={{ animationDelay: "100ms" }}>
           <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-primary/20">
             <img
-              src="/heroMenu2.jpg"
+              src="/heroMenu2.jpeg"
               alt="Hidangan Spesial Dapur Umi Kiyana"
               className="w-full h-auto object-cover transition-transform duration-700 hover:scale-105"
             />
