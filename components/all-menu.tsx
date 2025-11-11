@@ -23,7 +23,7 @@ const allMenuData = [
     name: "Ayam Cabe Hijau",
     desc: "Ayam lezat dengan cabe hijau pilihan",
     price: 25000,
-    image: "/ayamSambalHijau.jpeg",
+    image: "/AyamSambalHijau.jpeg",
   },
   {
     id: "all-4",

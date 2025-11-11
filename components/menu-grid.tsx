@@ -24,7 +24,7 @@ const menuData = {
       name: "Ayam Cabe Hijau",
       desc: "Ayam lezar dengan cabe hijau pilihan",
       price: 25000,
-      image: "/ayamSambalHijau.jpeg",
+      image: "/AyamSambalHijau.jpeg",
     },
     {
       id: "w1-4",
@@ -53,7 +53,7 @@ const menuData = {
       id: "w2-3",
       name: "Ayam Penyet Lezat",
       desc: "Ayam goreng yang dipenyet dengan sambal matah segar dan lezat",
-      price: 46000,
+      price: 25000,
       image: "/ayam-penyet-lezat.jpg",
     },
     {
@@ -76,7 +76,7 @@ const menuData = {
       id: "w3-2",
       name: "Ayam Woku Singkong",
       desc: "Ayam dengan irisan singkong yang dimasak dalam woku dengan bumbu kental",
-      price: 44000,
+      price: 25000,
       image: "/ayam-woku-singkong.jpg",
     },
     {

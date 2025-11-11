@@ -15,7 +15,7 @@ const bestSellerData: BestSellerItem[] = [
     id: "bs-1",
     name: "Ayam Cabe Hijau",
     price: 25000,
-    image: "/ayamSambalHijau.jpeg",
+    image: "/AyamSambalHijau.jpeg",
     rating: 4.9,
   },
   {
