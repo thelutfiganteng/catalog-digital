@@ -16,7 +16,7 @@ const allMenuData = [
     name: "Ayam Cabe Merah",
     desc: "Ayam lezat dengan cabe merah pilihan",
     price: 25000,
-    image: "/ayamCabeMerah.jpg",
+    image: "/ayamCabeMerah.jpeg",
   },
   {
     id: "all-3",
@@ -58,7 +58,7 @@ const allMenuData = [
     name: "Ayam Crispy",
     desc: "Ayam goreng yang renyah dan lezat",
     price: 25000,
-    image: "/ayamCrispy.jpg",
+    image: "/ayamCrispy.jpeg",
   },
   {
     id: "all-9",

@@ -17,7 +17,7 @@ const menuData = {
       name: "Ayam Cabe Merah",
       desc: "Ayam lezat dengan cabe merah pilihan",
       price: 25000,
-      image: "/ayamCabeMerah.jpg",
+      image: "/ayamCabeMerah.jpeg",
     },
     {
       id: "w1-3",
@@ -47,7 +47,7 @@ const menuData = {
       name: "Ayam Rendang",
       desc: "Ayam dengan bumbu rendang khas indonesia",
       price: 25000,
-      image: "/ayamRendang.jpg",
+      image: "/ayamRendang.jpeg",
     },
     {
       id: "w2-3",
@@ -61,7 +61,7 @@ const menuData = {
       name: "Ayam Crispy",
       desc: "Ayam goreng yang renyah dan lezat",
       price: 25000,
-      image: "/ayamCrispy.jpg",
+      image: "/ayamCrispy.jpeg",
     },
   ],
   3: [

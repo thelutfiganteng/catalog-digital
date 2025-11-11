@@ -22,7 +22,7 @@ const bestSellerData: BestSellerItem[] = [
     id: "bs-2",
     name: "Ayam Crispy",
     price: 25000,
-    image: "/ayamCrispy.jpg",
+    image: "/ayamCrispy.jpeg",
     rating: 4.8,
   },
   {
