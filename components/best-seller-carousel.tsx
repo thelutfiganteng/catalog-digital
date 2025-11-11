@@ -29,7 +29,7 @@ const bestSellerData: BestSellerItem[] = [
     id: "bs-3",
     name: "Snack dengan Susu",
     price: 25000,
-    image: "/snackSusu.jpeg",
+    image: "/SnackSusu.jpeg",
     rating: 4.9,
   },
   {
@@ -50,7 +50,7 @@ const bestSellerData: BestSellerItem[] = [
     id: "bs-5",
     name: "Nasi Lele Spesial",
     price: 25000,
-    image: "/nasiLeleSpesial.jpeg",
+    image: "/NasiLeleSpesial.jpeg",
     rating: 4.8,
   },
 ]

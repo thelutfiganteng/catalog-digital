@@ -37,7 +37,7 @@ const allMenuData = [
     name: "Nasi Lele Spesial",
     desc: "Nasi dengan lele spesial dan crispy",
     price: 25000,
-    image: "/nasiLeleSpesial.jpeg",
+    image: "/NasiLeleSpesial.jpeg",
   },
   {
     id: "all-6",
