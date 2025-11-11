@@ -43,7 +43,7 @@ const bestSellerData: BestSellerItem[] = [
     id: "bs-4",
     name: "Ayam Rendang",
     price: 25000,
-    image: "/ayamRendang.jpg",
+    image: "/ayamRendang.jpeg",
     rating: 4.7,
   },
   {

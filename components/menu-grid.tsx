@@ -31,7 +31,7 @@ const menuData = {
       name: "Ayam Suwir",
       desc: "Nasi dengan ayam suwir yang lembut, tepat dimakan hangat",
       price: 25000,
-      image: "/ayamSuwir.jpg",
+      image: "/ayamSuwir.jpeg",
     },
   ],
   2: [
